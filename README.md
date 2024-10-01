@@ -41,6 +41,7 @@ Demo direnv, devbox, and gum for isolated environments management
 - start via `devbox shell`
 - exit via `exit`
 - generate direnv `.envrc` via `devbox generate direnv`
+
 ![devbox](./img/devbox.png)
 
 ### [`gum`](https://github.com/charmbracelet/gum)
