@@ -9,8 +9,7 @@ Demo direnv, devbox, and gum for isolated environments management
 
 ## blog related
 
-- [EN] [isolated development with direnv & devbox (& gum)](https://www.bluebirz.net/en/isolate-dev-direnv-devbox-gum/)
-- [TH] [isolated development ด้วย direnv & devbox (& gum)](https://www.bluebirz.net/th/isolate-dev-direnv-devbox-gum-th/)
+- [Blog] [Isolated development with direnv & devbox (& gum)](https://bluebirz.net/posts/isolate-dev-direnv-devbox-gum/)
 - [Medium] [isolated development with direnv & devbox (& gum)]<https://medium.com/@bluebirz/isolated-development-with-direnv-devbox-gum-c021d5be7f60>)
 
 ## How to run
